@@ -37,6 +37,7 @@
     background: rgba(229, 84, 115, 0.10);
     height: 100vh;
     display: flex;
+    justify-content: space-around;
     padding: 0px 180px;
     padding-top: 20px;
     align-items: center;
@@ -65,6 +66,7 @@
 .products {
     display: flex;
     align-items: center;
+    justify-content: space-around;
     gap: 18px;
     margin: 0px 180px;
 
@@ -157,6 +159,7 @@
 
 .catagories{
     display: flex;
+    justify-content: space-around;
     gap:22px;
     margin:20px 180px 36px;
 }
@@ -168,6 +171,7 @@
 
 .offer {
     display: flex;
+    justify-content: space-around;
     align-items: center;
     gap: 140px;
     margin: 0px 250px;
@@ -211,6 +215,7 @@
 
 .card {
     display: flex;
+    justify-content: center;
     margin-bottom: 90px;
     gap: 18px;
     text-align: center;
