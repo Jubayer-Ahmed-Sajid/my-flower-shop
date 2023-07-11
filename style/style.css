@@ -195,5 +195,30 @@
     padding-top: 75px;
     padding-bottom: 75px;
 }
+/* card section related style */
+.instagram-title {
+    padding-top: 96px;
+}
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-bottom: 31px;
+}
+
+.card {
+    display: flex;
+    margin-bottom: 90px;
+    gap: 18px;
+    text-align: center;
+    padding: 0px 180px;
+}
+
+.card img {
+    width: 210px;
+}
 
 
