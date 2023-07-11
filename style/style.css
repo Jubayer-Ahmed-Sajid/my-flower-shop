@@ -1,0 +1,63 @@
+/* Shared styling */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato;
+
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    padding: 15px 32.25px;
+}
+
+.title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    padding-bottom: 18px;
+    text-align: center;
+
+}
+
+.description {
+    text-align: center;
+    padding-top: 18px;
+    color: rgba(39, 39, 39, 0.60);
+
+}
+
+/* Header related styles */
+.head {
+    background: rgba(229, 84, 115, 0.10);
+    height: 100vh;
+    display: flex;
+    padding: 0px 180px;
+    padding-top: 20px;
+    align-items: center;
+
+}
+
+.head-img {
+    width: 472px;
+}
+
+.head-title {
+    font-size: 60px;
+    font-weight: 800;
+    width: 585px;
+    padding-bottom: 24px;
+}
+
+.head-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 13.5px;
+    line-height: 22.5px;
+    width: 475px;
+    padding-bottom: 24px;
+}
