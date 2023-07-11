@@ -138,7 +138,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 50px;
-    margin: 96px 180px;
+    margin: 96px 15%;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
 }
@@ -150,8 +150,8 @@
     align-items: center;
 }
 
-.service-icon-two,
-.service-icon-one {
+.service-icon-one,
+.service-icon-two {
     margin-left: 50px;
 }
 /* Bonus section related style */
@@ -161,7 +161,7 @@
     display: flex;
     justify-content: space-around;
     gap:22px;
-    margin:20px 180px 36px;
+    margin:20px 10% 36px;
 }
 .flower-product img{
     width:278px;
@@ -194,17 +194,17 @@
     background: rgba(229, 84, 115, 0.05);
 }
 
-.wing-eight {
+.discount-section-img {
     width: 318px;
     padding-top: 75px;
     padding-bottom: 75px;
 }
 /* card section related style */
-.instagram-title {
+.card-section-title {
     padding-top: 96px;
 }
 
-.instagram-description {
+.card-section-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 13px;
@@ -213,7 +213,7 @@
     padding-bottom: 31px;
 }
 
-.card {
+.cards{
     display: flex;
     justify-content: center;
     margin-bottom: 90px;
@@ -222,7 +222,7 @@
     padding: 0px 180px;
 }
 
-.card img {
+.cards img {
     width: 210px;
 }
 /* cupon code related section */
