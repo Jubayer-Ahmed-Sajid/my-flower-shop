@@ -129,3 +129,26 @@
     width: 188px;
     padding: 45px 40px 0px;
 }
+/* support related styles */
+
+.support {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 96px 180px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.service-icon {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-icon-two,
+.service-icon-one {
+    margin-left: 50px;
+}
